@@ -1,0 +1,21 @@
+/* Defines the style for all texts within 'h1' */
+h1 {
+    color: rgb(50, 50, 131);
+    background-color: rgba(95, 95, 95,0.5);
+    margin: 0 auto;
+    width: 50%;
+    padding: 50px
+}
+
+p {
+    font-family: verdana, sans-serif; /* first priority, backup front (called a font stack) */
+}
+
+body{
+    background-color: rgb(221, 221, 221);
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+}
